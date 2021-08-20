@@ -69,57 +69,7 @@ searchInput.addEventListener("keydown", searchTodo);
 
 
 
-// const name = "sanam";
-// const age = 30 ;
 
-// const greating = `Hi ${name} don I'm ${age >=18 ? "nkn" : "joj"} years old.`;
-// console.log (greating)  
-
-
-//object //
-
-// const contact = {
-//     name: "sanam",
-//     key1 :"value2",
-//     "test test" : "test test",
-//     speak: function speak(){
-//         console.log("this.key1");
-//     }
-// };
-// contact.gender = "male";
-
-// delete contact.name;
-
-// contact.speak();
-
-
-
-// const gang = [
-//     {
-//         name : "sanam",
-//     age : 20,
-// },
-// {
-//     name : "saman",
-//     age : 80,
-
-// },
-// ];
-
-// gang[0].name = "sanam tamang";
-
-// console.log(gang[0].age);
-
-
-
-
-// function test() {
-
-// };
-// const test = () => {
-
-// }
-// const  test = () => "";
 
 
 

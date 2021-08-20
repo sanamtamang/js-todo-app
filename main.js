@@ -1,4 +1,4 @@
-const todos = JSON.parse(localStorage.getItem("todos"));
+const todos = JSON.parse(localStorage.getItem("todos")) || [];
 
 const todosElement = document.querySelector("ul");
 const input = document.querySelector("input");
